@@ -1,0 +1,11 @@
+{
+  "name": "@eckdanny/conventional-changelog-version",
+  "version": "1.0.0",
+  "description": "Less than [`semantic-release`](https://github.com/semantic-release/semantic-release) but more than [`conventional-changelog`](https://github.com/conventional-changelog/conventional-changelog)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eckdanny/conventional-changelog-version.git"
+  },
+  "author": "Danny Eck <eck.danny@gmail.com>",
+  "license": "MIT"
+}
