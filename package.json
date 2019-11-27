@@ -7,5 +7,10 @@
     "url": "https://github.com/eckdanny/conventional-changelog-version.git"
   },
   "author": "Danny Eck <eck.danny@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "conventional-changelog-angular-bitbucket": "^1.2.0",
+    "conventional-changelog-cli": "^2.0.28",
+    "conventional-recommended-bump": "^6.0.5"
+  }
 }
