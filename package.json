@@ -9,8 +9,17 @@
   "author": "Danny Eck <eck.danny@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "chalk": "^3.0.0",
     "conventional-changelog-angular-bitbucket": "^1.2.0",
     "conventional-changelog-cli": "^2.0.28",
-    "conventional-recommended-bump": "^6.0.5"
+    "conventional-recommended-bump": "^6.0.5",
+    "execa": "^3.4.0",
+    "npmlog": "^4.1.2",
+    "semver": "^6.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.7.1",
+    "eslint-plugin-jest": "^23.0.5",
+    "jest": "^24.9.0"
   }
 }
